@@ -20,8 +20,8 @@ A modern, user-friendly unit converter web application built with Streamlit. Con
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/unit-converter-pro.git
-   cd unit-converter-pro
+   git clone https://github.com/SyedaFatimaNoor/Project1.git
+   cd Project1
    ```
 
 2. Install the required packages:
@@ -62,9 +62,6 @@ You can also deploy this app to other platforms like:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
